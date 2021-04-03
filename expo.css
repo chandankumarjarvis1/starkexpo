@@ -241,3 +241,9 @@ h1:hover{color:Red;}
     background-color:black;
     margin:150px 0px;
 }
+
+.ded{
+    width: 250px;
+    color:red;
+    margin:-120px 900px;
+}
